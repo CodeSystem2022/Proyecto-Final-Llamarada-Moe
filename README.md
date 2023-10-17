@@ -1,6 +1,10 @@
 # Proyecto-Final-Llamarada-Moe
 PI e-commerce Llamarada Moe cohorte 2022 
 
+
+https://github.com/CodeSystem2022/Proyecto-Final-Llamarada-Moe/assets/83845164/9f7d3dd9-1aa4-45af-8029-229a928a69cf
+
+
 <div align="center">
   <h2><b>Integrantes</b></h2>
 </div>
