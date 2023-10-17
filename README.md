@@ -11,8 +11,18 @@
 
   - Importante: por una cuestión de seguridad y privacidad, no se añaden las credenciales ni API keys de MercadoPago ni CheckoutPro
 
+## Capturas de Pantalla
+- **Página Principal**
+  
+![Imagen Principal](https://github.com/CodeSystem2022/Proyecto-Final-Llamarada-Moe/assets/112595886/b19d1a17-e71e-4cd7-9301-bb06dd5dcf81)
+- **Vista del Carrito**
 
-https://github.com/CodeSystem2022/Proyecto-Final-Llamarada-Moe/assets/83845164/9f7d3dd9-1aa4-45af-8029-229a928a69cf
+![Vista de la Página](https://github.com/CodeSystem2022/Proyecto-Final-Llamarada-Moe/assets/112595886/cd81f5eb-a1d1-4a84-8b8f-82c5660e4113)
+
+## Video Demo
+[Ver Video Demo](https://github.com/CodeSystem2022/Proyecto-Final-Llamarada-Moe/assets/83845164/9f7d3dd9-1aa4-45af-8029-229a928a69cf)
+
+<br>
 
 
 <div align="center">
