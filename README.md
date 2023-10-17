@@ -1,15 +1,19 @@
 # Proyecto-Final-Llamarada-Moe
 
-- PI e-Commerce Llamarada Moe cohorte 2022. Página web de venta de tazas de los simpsons
-  - Utilizamos:
-- HTML5 para crear la estructura index.html
-- CSS3 para personalizar los estilos en styles.css
-- JavaScript para las funcionalidades de los botones del carrito
-  - Framework: Bootstrap5 para darle estética y modernismo a la página
-- Imagenes ilustrativas de productos (tazas) sacados de Google
-- Código de server.js MercadoPago CheckoutPro y e-Commerce basado en proyecto de 4to semestre JavaScript
+## Descripción
+PI e-Commerce Llamarada Moe, cohorte 2022. Esta es una página web de venta de tazas de los Simpsons.
 
-  - Importante: por una cuestión de seguridad y privacidad, no se añaden las credenciales ni API keys de MercadoPago ni CheckoutPro
+### Tecnologías Utilizadas
+- **HTML5**: Utilizado para crear la estructura `index.html`.
+- **CSS3**: Empleado para personalizar los estilos en `styles.css`.
+- **JavaScript**: Usado para las funcionalidades de los botones del carrito.
+  - Framework: **Bootstrap 5** para darle estética y modernismo a la página.
+- Imágenes ilustrativas de productos (tazas) sacadas de Google.
+- Código de `server.js`: Implementación de MercadoPago CheckoutPro y e-Commerce basado en proyecto de 4to semestre JavaScript.
+
+  - **Importante**: Por razones de seguridad y privacidad, no se añaden las credenciales ni API keys de MercadoPago ni CheckoutPro.
+ 
+<br>
 
 ## Capturas de Pantalla
 - **Página Principal**
